@@ -1,0 +1,14 @@
+C:\Users\joel.ballesteros\Desktop\PrinterPOC\PrinterPOC\bin\Debug\PrinterPOC.exe.config
+C:\Users\joel.ballesteros\Desktop\PrinterPOC\PrinterPOC\bin\Debug\PrinterPOC.exe
+C:\Users\joel.ballesteros\Desktop\PrinterPOC\PrinterPOC\bin\Debug\PrinterPOC.pdb
+C:\Users\joel.ballesteros\Desktop\PrinterPOC\PrinterPOC\obj\Debug\PrinterPOC.csprojResolveAssemblyReference.cache
+C:\Users\joel.ballesteros\Desktop\PrinterPOC\PrinterPOC\obj\Debug\PrinterPOC.Form1.resources
+C:\Users\joel.ballesteros\Desktop\PrinterPOC\PrinterPOC\obj\Debug\PrinterPOC.Properties.Resources.resources
+C:\Users\joel.ballesteros\Desktop\PrinterPOC\PrinterPOC\obj\Debug\PrinterPOC.csproj.GenerateResource.Cache
+C:\Users\joel.ballesteros\Desktop\PrinterPOC\PrinterPOC\obj\Debug\PrinterPOC.exe
+C:\Users\joel.ballesteros\Desktop\PrinterPOC\PrinterPOC\obj\Debug\PrinterPOC.pdb
+C:\Users\joel.ballesteros\Desktop\PrinterPOC\PrinterPOC\bin\Debug\PdfiumViewer.dll
+C:\Users\joel.ballesteros\Desktop\PrinterPOC\PrinterPOC\bin\Debug\PdfiumViewer.xml
+C:\Users\joel.ballesteros\Desktop\PrinterPOC\PrinterPOC\bin\Debug\nl\PdfiumViewer.resources.dll
+C:\Users\joel.ballesteros\Desktop\PrinterPOC\PrinterPOC\bin\Debug\x64\pdfium.dll
+C:\Users\joel.ballesteros\Desktop\PrinterPOC\PrinterPOC\bin\Debug\x86\pdfium.dll
